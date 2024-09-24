@@ -1,0 +1,2 @@
+Install following libraries using pip install
+tensorflow , pandas , numpy , matplotlib , tensorflow , cv2
